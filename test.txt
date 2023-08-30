@@ -1,4 +1,5 @@
 this is my first git commit
 Hi my name is Marcus Turner
 Im class of 2024
-I like running
+I like running 
+this is my homework
